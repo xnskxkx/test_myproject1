@@ -1,2 +1,2 @@
 Hello Git
-This line is from main branch
+This line is from fix_conflict branch
